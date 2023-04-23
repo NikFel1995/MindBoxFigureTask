@@ -1,0 +1,6 @@
+﻿INSERT Products(Id, Name) VALUES (1, N'Хлеб')
+INSERT Products(Id, Name) VALUES (2, N'Молоко')
+INSERT Products(Id, Name) VALUES (3, N'Йогурт')
+INSERT Products(Id, Name) VALUES (4, N'Сыр')
+INSERT Products(Id, Name) VALUES (5, N'Колбаса')
+INSERT Products(Id, Name) VALUES (6, N'Шоколадный батончик')

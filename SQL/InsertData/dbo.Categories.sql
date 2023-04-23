@@ -1,0 +1,6 @@
+﻿INSERT Categories(Id, Name) VALUES (1, N'Хлебо-булочное изделие')
+INSERT Categories(Id, Name) VALUES (2, N'Молочное изделие')
+INSERT Categories(Id, Name) VALUES (3, N'Мясное изделие')
+INSERT Categories(Id, Name) VALUES (4, N'Полезное')
+INSERT Categories(Id, Name) VALUES (5, N'Питание')
+INSERT Categories(Id, Name) VALUES (6, N'На завтрак')
